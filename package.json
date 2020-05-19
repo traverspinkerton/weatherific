@@ -1,0 +1,22 @@
+{
+  "name": "weatherific",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "date-fns": "^2.13.0",
+    "date-fns-tz": "^1.0.10",
+    "next": "^9.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-use-auth": "traverspinkerton/useAuth#screen_hint-signup",
+    "swr": "^0.2.0"
+  },
+  "devDependencies": {
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.4.0"
+  }
+}
